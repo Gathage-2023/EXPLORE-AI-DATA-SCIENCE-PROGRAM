@@ -3,8 +3,10 @@ My Learning Journey
 Overview
 This repository contains materials, projects, and notes from my journey through the ExploreAI Data Science Program. I covered a wide range of topics, including data preparation, SQL, data visualization and storytelling, Python programming, machine learning (regression, classification, and unsupervised learning), natural language processing (NLP), and AWS cloud foundations. This program has equipped me with the foundational and advanced skills needed for a career in data science.
 
+
 Table of Contents
 Overview
+
 Learning Outcomes
 Topics Covered
 Explore 101
